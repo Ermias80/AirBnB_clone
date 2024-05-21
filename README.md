@@ -99,3 +99,15 @@ These are the models that are currently available.
 | Place | Represents a building containing rooms that can be rented by a _User_. |
 | Review | Represents a review of a _Place_. |
 
+
+
+
+##### Alternative Syntax
+Users are able to issue a number of console command using an alternative syntax:
+	Usage: <class_name>.<command>([<id>[name_arg value_arg]|[kwargs]])
+Advanced syntax is implemented for the following commands: 
+    * all - Shows all objects the program has access to, or all objects of a given class
+	* count - Return number of object instances by class
+    * show - Shows an object based on class and UUID
+	* destroy - Destroys an object based on class and UUID
+    * update - Updates existing attributes an object based on class name and UUID
