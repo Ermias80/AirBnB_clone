@@ -112,10 +112,7 @@ These are the models that are currently available.
 	* destroy - Destroys an object based on class and UUID
     * update - Updates existing attributes an object based on class name and UUID
 
-
-<br>
-<br>
-<center> <h2>Examples</h2> </center>
+##### Examples
 ###  Testing
 + Within the project, we have incorporated unit tests to verify the accuracy of the implemented functionality. To execute these tests, follow the instructions below:
 + - "python3 -m unittest discover tests" (interactive mode)
