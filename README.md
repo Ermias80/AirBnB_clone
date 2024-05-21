@@ -111,3 +111,13 @@ Advanced syntax is implemented for the following commands:
     * show - Shows an object based on class and UUID
 	* destroy - Destroys an object based on class and UUID
     * update - Updates existing attributes an object based on class name and UUID
+
+
+<br>
+<br>
+<center> <h2>Examples</h2> </center>
+## Testing
+Within the project, we have incorporated unit tests to verify the accuracy of the implemented functionality. To execute these tests, follow the instructions below:
+- "python3 -m unittest discover tests" (interactive mode)
+- "echo 'python3 -m unittest discover tests' | bash" (Non-interactive mode)
+
