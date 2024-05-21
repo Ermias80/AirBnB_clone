@@ -105,7 +105,7 @@ These are the models that are currently available.
 ### Alternative Syntax
 * Users are able to issue a number of console command using an alternative syntax:
 	Usage: <class_name>.<command>([<id>[name_arg value_arg]|[kwargs]])
-Advanced syntax is implemented for the following commands: 
++ Advanced syntax is implemented for the following commands: 
     * all - Shows all objects the program has access to, or all objects of a given class
 	* count - Return number of object instances by class
     * show - Shows an object based on class and UUID
@@ -116,8 +116,8 @@ Advanced syntax is implemented for the following commands:
 <br>
 <br>
 <center> <h2>Examples</h2> </center>
-## Testing
-+Within the project, we have incorporated unit tests to verify the accuracy of the implemented functionality. To execute these tests, follow the instructions below:
-+- "python3 -m unittest discover tests" (interactive mode)
+###  Testing
++ Within the project, we have incorporated unit tests to verify the accuracy of the implemented functionality. To execute these tests, follow the instructions below:
++ - "python3 -m unittest discover tests" (interactive mode)
 + - "echo 'python3 -m unittest discover tests' | bash" (Non-interactive mode)
 
