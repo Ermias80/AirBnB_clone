@@ -109,10 +109,10 @@ These are the models that are currently available.
 <br>
 <br>
 <center> <h2>Examples</h2> </center>
-## Testing
-Within the project, we have incorporated unit tests to verify the accuracy of the implemented functionality. To execute these tests, follow the instructions below:
-- "python3 -m unittest discover tests" (interactive mode)
-- "echo 'python3 -m unittest discover tests' | bash" (Non-interactive mode)
++ ## Testing
++ Within the project, we have incorporated unit tests to verify the accuracy of the implemented functionality. To execute these tests, follow the instructions below:
++ - "python3 -m unittest discover tests" (interactive mode)
++ - "echo 'python3 -m unittest discover tests' | bash" (Non-interactive mode)
 
 ### Examples
 
